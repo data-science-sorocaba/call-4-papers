@@ -8,8 +8,8 @@ Repositório com as principais diretrizes de contribuição com o Meetup de Data
 
 - [Qual tipo de palestra posso apresentar?](#Qual-tipo-de-palestra-posso-apresentar?)
 - [Como submeter palestras?](#Como-submeter-palestras?)
-  - [Via Github](#Via-Github)
-  - [Via e-mail](#Via-e-mail)
+  - [Via Github](#via-Github)
+  - [Via e-mail](#via-e-mail)
 - [Exemplo de submissão de palestra](#Exemplo-de-submissão-de-palestra)
 - [Como saberei que minha sugestão foi aprovada?](#Como-saberei-que-minha-sugestão-foi-aprovada?)
 - [Quais são os próximos passos?](#Quais-são-os-próximos-passos?)
