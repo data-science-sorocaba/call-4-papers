@@ -2,10 +2,9 @@
 
 Repositório com as principais diretrizes de contribuição com o Meetup de Data Science de Sorocaba.
 
-## Objetivo do Meetup de Data Science Sorocaba
-
 ## Sumário
 
+- [Objetivos do Meetup de Data Science de Sorocaba](#objetivos-do-meetup-de-data-science-de-sorocaba)
 - [Qual tipo de palestra posso apresentar?](#qual-tipo-de-palestra-posso-apresentar)
 - [Como submeter palestras?](#como-submeter-palestras)
   - [Via Github](#via-github)
@@ -13,6 +12,8 @@ Repositório com as principais diretrizes de contribuição com o Meetup de Data
 - [Exemplo de submissão de palestra](#exemplo-de-submissão-de-palestra)
 - [Como saberei que minha sugestão foi aprovada?](#como-saberei-que-minha-sugestão-foi-aprovada)
 - [Quais são os próximos passos?](#quais-são-os-próximos-passos)
+
+## Objetivos do Meetup de Data Science de Sorocaba
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
 
