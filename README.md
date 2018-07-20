@@ -7,73 +7,59 @@ Repositório com as principais diretrizes de contribuição com o Meetup de Data
 - [Objetivos do Meetup de Data Science de Sorocaba](#objetivos-do-meetup-de-data-science-de-sorocaba)
 - [Qual tipo de palestra posso apresentar?](#qual-tipo-de-palestra-posso-apresentar)
 - [Como submeter palestras?](#como-submeter-palestras)
-  - [Via Github](#via-github)
-  - [Via e-mail](#via-e-mail)
-- [Exemplo de submissão de palestra](#exemplo-de-submissão-de-palestra)
-- [Como saberei que minha sugestão foi aprovada?](#como-saberei-que-minha-sugestão-foi-aprovada)
+  - [Submetendo a palestra no Github](#submetendo-a-palestra-no-github)
 - [Quais são os próximos passos?](#quais-são-os-próximos-passos)
 
 ## Objetivos do Meetup de Data Science de Sorocaba
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
+O Meetup de Data Science de Sorocaba foi criado para desenvolver e fomentar a Ciência de Dados no geral para Sorocaba e região. De forma inteiramente gratuita, organizamos cada encontro e, através de vários modelos de palestras e workshops, procuramos trocar conhecimentos e experiência.
 
-Et pharetra pharetra massa massa ultricies. Sed enim ut sem viverra aliquet eget sit amet tellus. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ornare arcu dui vivamus arcu felis. Pulvinar elementum integer enim neque volutpat ac tincidunt. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Arcu non odio euismod lacinia at quis risus sed. Purus semper eget duis at tellus at urna condimentum mattis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Gravida dictum fusce ut placerat.
-
-At elementum eu facilisis sed odio morbi quis commodo. Lorem ipsum dolor sit amet consectetur adipiscing elit. Elit duis tristique sollicitudin nibh sit amet. Cursus eget nunc scelerisque viverra mauris in. Quam elementum pulvinar etiam non quam. Eu mi bibendum neque egestas congue quisque egestas diam. Quam pellentesque nec nam aliquam sem. Massa sed elementum tempus egestas sed sed. Sem et tortor consequat id porta nibh venenatis cras. Tincidunt ornare massa eget egestas purus viverra.
+Se você deseja fazer parte desse grupo, será totalmente bem-vindo! Não importa em qual nível de conhecimento você está, pois acolhemos todos os tipos de estudantes e entusiastas, buscando estudar e evoluir sempre. 😎
 
 ## Qual tipo de palestra posso apresentar?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
+Qualquer tipo de palestra é super benéfico para a comunidade. Como falamos anteriormente, você pode trazer qualquer nível de conhecimento, então os seguintes formatos são viáveis:
 
-Et pharetra pharetra massa massa ultricies. Sed enim ut sem viverra aliquet eget sit amet tellus. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ornare arcu dui vivamus arcu felis. Pulvinar elementum integer enim neque volutpat ac tincidunt. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Arcu non odio euismod lacinia at quis risus sed. Purus semper eget duis at tellus at urna condimentum mattis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Gravida dictum fusce ut placerat.
-
-At elementum eu facilisis sed odio morbi quis commodo. Lorem ipsum dolor sit amet consectetur adipiscing elit. Elit duis tristique sollicitudin nibh sit amet. Cursus eget nunc scelerisque viverra mauris in. Quam elementum pulvinar etiam non quam. Eu mi bibendum neque egestas congue quisque egestas diam. Quam pellentesque nec nam aliquam sem. Massa sed elementum tempus egestas sed sed. Sem et tortor consequat id porta nibh venenatis cras. Tincidunt ornare massa eget egestas purus viverra.
+- Estudos de caso;
+- Conceitos e aplicações do Data Science na vida real;
+- Conceitos de desenvolvimento de software, matemática, estatística e negócios;
+- Workshops práticos (mão na massa!);
+- Novas tendências;
+- Abordagens Machine Learning, Inteligência Artificial, Big Data e Business Intelligence;
+- Outras situações que não estão listadas aqui, mas estão ligadas com a Ciência de Dados.
 
 ## Como submeter palestras?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
+Quer trazer um conteúdo interessante para o Meetup? Então nós vamos te ensinar como fazer isso!
 
-Et pharetra pharetra massa massa ultricies. Sed enim ut sem viverra aliquet eget sit amet tellus. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ornare arcu dui vivamus arcu felis. Pulvinar elementum integer enim neque volutpat ac tincidunt. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Arcu non odio euismod lacinia at quis risus sed. Purus semper eget duis at tellus at urna condimentum mattis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Gravida dictum fusce ut placerat.
+**Antes de tudo, é bom reforçar que a submissão de palestras acontecerá apenas pelo Github, com exceções em casos específicos.**
 
-At elementum eu facilisis sed odio morbi quis commodo. Lorem ipsum dolor sit amet consectetur adipiscing elit. Elit duis tristique sollicitudin nibh sit amet. Cursus eget nunc scelerisque viverra mauris in. Quam elementum pulvinar etiam non quam. Eu mi bibendum neque egestas congue quisque egestas diam. Quam pellentesque nec nam aliquam sem. Massa sed elementum tempus egestas sed sed. Sem et tortor consequat id porta nibh venenatis cras. Tincidunt ornare massa eget egestas purus viverra.
+O modo preferencial - e que encorajamos você a fazer - é abrir uma *Issue* nesse repositório com a sua proposta.
 
-### Via Github
+E é claro que você deve estar se perguntando: *"Mas por que eu devo ter trabalhado de submeter minha palestra pelo Github?"*. E nós respondemos de forma bem direta:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
+**Queremos que você utilize o Github com frequência, participando publicamente de um projeto legal e mostrando isso para o mundo - sim, isso vai ajudar na sua carreira como Data Scientist.** 💪
 
-Et pharetra pharetra massa massa ultricies. Sed enim ut sem viverra aliquet eget sit amet tellus. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ornare arcu dui vivamus arcu felis. Pulvinar elementum integer enim neque volutpat ac tincidunt. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Arcu non odio euismod lacinia at quis risus sed. Purus semper eget duis at tellus at urna condimentum mattis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Gravida dictum fusce ut placerat.
+No caso do e-mail, aceitaremos submissões de palestras, é claro, mas gostaríamos que esse canal fosse utilizado para situações esporádicas. Portanto, foco no Github!
 
-At elementum eu facilisis sed odio morbi quis commodo. Lorem ipsum dolor sit amet consectetur adipiscing elit. Elit duis tristique sollicitudin nibh sit amet. Cursus eget nunc scelerisque viverra mauris in. Quam elementum pulvinar etiam non quam. Eu mi bibendum neque egestas congue quisque egestas diam. Quam pellentesque nec nam aliquam sem. Massa sed elementum tempus egestas sed sed. Sem et tortor consequat id porta nibh venenatis cras. Tincidunt ornare massa eget egestas purus viverra.
+Então, vamos lá:
 
-### Via e-mail
+### Submetendo a palestra no Github
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
+Para submeter sua palestra pelo Github, siga os seguintes passos:
 
-Et pharetra pharetra massa massa ultricies. Sed enim ut sem viverra aliquet eget sit amet tellus. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ornare arcu dui vivamus arcu felis. Pulvinar elementum integer enim neque volutpat ac tincidunt. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Arcu non odio euismod lacinia at quis risus sed. Purus semper eget duis at tellus at urna condimentum mattis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Gravida dictum fusce ut placerat.
-
-At elementum eu facilisis sed odio morbi quis commodo. Lorem ipsum dolor sit amet consectetur adipiscing elit. Elit duis tristique sollicitudin nibh sit amet. Cursus eget nunc scelerisque viverra mauris in. Quam elementum pulvinar etiam non quam. Eu mi bibendum neque egestas congue quisque egestas diam. Quam pellentesque nec nam aliquam sem. Massa sed elementum tempus egestas sed sed. Sem et tortor consequat id porta nibh venenatis cras. Tincidunt ornare massa eget egestas purus viverra.
-
-## Exemplo de submissão de palestra
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
-
-Et pharetra pharetra massa massa ultricies. Sed enim ut sem viverra aliquet eget sit amet tellus. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ornare arcu dui vivamus arcu felis. Pulvinar elementum integer enim neque volutpat ac tincidunt. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Arcu non odio euismod lacinia at quis risus sed. Purus semper eget duis at tellus at urna condimentum mattis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Gravida dictum fusce ut placerat.
-
-At elementum eu facilisis sed odio morbi quis commodo. Lorem ipsum dolor sit amet consectetur adipiscing elit. Elit duis tristique sollicitudin nibh sit amet. Cursus eget nunc scelerisque viverra mauris in. Quam elementum pulvinar etiam non quam. Eu mi bibendum neque egestas congue quisque egestas diam. Quam pellentesque nec nam aliquam sem. Massa sed elementum tempus egestas sed sed. Sem et tortor consequat id porta nibh venenatis cras. Tincidunt ornare massa eget egestas purus viverra.
-
-## Como saberei que minha sugestão foi aprovada?
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
-
-Et pharetra pharetra massa massa ultricies. Sed enim ut sem viverra aliquet eget sit amet tellus. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ornare arcu dui vivamus arcu felis. Pulvinar elementum integer enim neque volutpat ac tincidunt. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Arcu non odio euismod lacinia at quis risus sed. Purus semper eget duis at tellus at urna condimentum mattis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Gravida dictum fusce ut placerat.
-
-At elementum eu facilisis sed odio morbi quis commodo. Lorem ipsum dolor sit amet consectetur adipiscing elit. Elit duis tristique sollicitudin nibh sit amet. Cursus eget nunc scelerisque viverra mauris in. Quam elementum pulvinar etiam non quam. Eu mi bibendum neque egestas congue quisque egestas diam. Quam pellentesque nec nam aliquam sem. Massa sed elementum tempus egestas sed sed. Sem et tortor consequat id porta nibh venenatis cras. Tincidunt ornare massa eget egestas purus viverra.
+1. Clique na aba *Issues* localizado na parte superior da tela;
+2. Clique em *New Issue* e preencha as informações da seguinte forma:
+   - **Title:** tema da palestra/workshop que você deseja apresentar;
+   - **Comment:** uma descrição sobre o tema que será abordado. Isso nos ajudará a montar cada encontro. **Não esqueça de falar quanto tempo você precisa para a apresentação!**
+   - **Labels:** do lado direito da tela, clique em *Labels* e identifique a categoria da sua Issue. Caso não encontre, marque com a *Label* "Outro";
+3. Após analisar sua proposta e aceitá-la, vamos encaixar no próximo Meetup e fazer a comunicação que tudo ocorreu bem.
 
 ## Quais são os próximos passos?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate sapien nec sagittis aliquam. Ullamcorper dignissim cras tincidunt lobortis. Integer malesuada nunc vel risus commodo. Massa tincidunt nunc pulvinar sapien. Et odio pellentesque diam volutpat commodo. Odio facilisis mauris sit amet massa. Eu nisl nunc mi ipsum faucibus vitae. Libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Donec et odio pellentesque diam volutpat. Massa massa ultricies mi quis hendrerit dolor.
+Com tudo feito, basta se preparar e compartilhar seu conhecimento com a comunidade. Não se preocupe em fazer uma palestra perfeita, estamos aqui para compartilhar conhecimento e isso é o mais importante.
 
-Et pharetra pharetra massa massa ultricies. Sed enim ut sem viverra aliquet eget sit amet tellus. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Ornare arcu dui vivamus arcu felis. Pulvinar elementum integer enim neque volutpat ac tincidunt. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Arcu non odio euismod lacinia at quis risus sed. Purus semper eget duis at tellus at urna condimentum mattis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Gravida dictum fusce ut placerat.
+**Lembre-se que todo conhecimento é válido, independente do seu nível dentro da área. Seja você profissional, estudante ou entusiasta, traga assuntos que possam agregar valor para o Meetup, pois sempre haverá alguém que irá se interessar pelo tema.**
 
-At elementum eu facilisis sed odio morbi quis commodo. Lorem ipsum dolor sit amet consectetur adipiscing elit. Elit duis tristique sollicitudin nibh sit amet. Cursus eget nunc scelerisque viverra mauris in. Quam elementum pulvinar etiam non quam. Eu mi bibendum neque egestas congue quisque egestas diam. Quam pellentesque nec nam aliquam sem. Massa sed elementum tempus egestas sed sed. Sem et tortor consequat id porta nibh venenatis cras. Tincidunt ornare massa eget egestas purus viverra.
+Qualquer dúvida, sugestão ou crítica, entre em contato pelo nosso canal de Slack ou pelo grupo de Whatsapp. 👍
 
