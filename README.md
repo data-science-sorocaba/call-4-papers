@@ -52,9 +52,9 @@ Para submeter sua palestra pelo Github, siga os seguintes passos:
 2. Clique em *New Issue* e preencha as informações da seguinte forma:
    - **Title:** título da palestra/workshop que você deseja apresentar;
    - **Comment:** uma descrição sobre o tema que será abordado. Isso nos ajudará a montar cada encontro e a descrição será utilizada na divulgação do evento.
-   - **Duração Estimada:** quanto tempo você precisa para transmitir a sua mensagem. Considere também tempo para sua apresentação pessoal e para perguntas da galera. 
+   - **Duration:** quanto tempo você precisa para transmitir a sua mensagem. Considere também tempo para sua apresentação pessoal e para perguntas da galera. 
    - **Labels:** do lado direito da tela, clique em *Labels* e identifique a categoria da sua Issue. Caso não encontre, marque com a *Label* "Outro";
-   - **mini bio:** de forma breve e sucinta, descreva suas principais qualificações e experiências. Pedimos esse dado apenas para caráter informativo e não será utilizado como critério de aceite.
+   - **Mini Bio:** de forma breve e sucinta, descreva suas principais qualificações e experiências. Pedimos esse dado apenas para caráter informativo e não será utilizado como critério de aceite.
 3. Após analisar sua proposta e aceitá-la, vamos encaixar no próximo Meetup e fazer a comunicação que tudo ocorreu bem.
 
 ## Quais são os próximos passos?
